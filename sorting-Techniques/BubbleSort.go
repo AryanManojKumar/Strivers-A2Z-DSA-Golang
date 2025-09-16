@@ -29,6 +29,7 @@ func main() {
 
 }
 
+// i like to first do it in main to dry run in my mind
 // func main() {
 
 // 	arr := []int{5, 4, 3, 2, 1}
